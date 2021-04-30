@@ -37,12 +37,19 @@
     "sectionTech": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-tech"
+      "component": "page.section-tech",
+      "required": true
     },
     "sectionConcepts": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-concepts",
+      "required": true
+    },
+    "sectionModules": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-modules",
       "required": true
     }
   }
