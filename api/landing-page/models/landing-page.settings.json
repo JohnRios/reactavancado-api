@@ -27,6 +27,12 @@
       "repeatable": false,
       "component": "page.header",
       "required": true
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project",
+      "required": true
     }
   }
 }
